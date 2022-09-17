@@ -244,7 +244,7 @@
 												We are the unique Consultancy Farm for your business solution, That is ready to take challenge and knockout your business problems. 
 											</p>
 											<button type="button" class="slide-btn">
-											get started
+											Bắt đầu nào
 											</button>
 											<button type="button"  class="slide-btn">
 												explore more
