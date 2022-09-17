@@ -81,7 +81,7 @@
 					<ul class="pull-left">
 						<li>
 							<a href="#">
-								<i class="fa fa-phone" aria-hidden="true"></i> +992 563 542
+								<i class="fa fa-phone" aria-hidden="true"></i> 0972359798
 							</a>
 						</li><!--/li-->
 						<li>
