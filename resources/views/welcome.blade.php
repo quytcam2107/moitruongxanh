@@ -5,6 +5,7 @@
         <!-- META DATA -->
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"> 
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 		
@@ -18,7 +19,7 @@
 		<link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet">
 		
         <!-- TITLE OF SITE -->
-        <title>Zombiz</title>
+        <title>Môi trường xanh</title>
 
         <!-- for title img -->
 		<link rel="shortcut icon" type="image/icon" href="{{ asset('library_web/assets/images/logo/favicon.png') }}"/>
